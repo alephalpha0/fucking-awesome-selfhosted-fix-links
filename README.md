@@ -28,7 +28,7 @@ See [Contributing](#contributing).
   - [Communication - Email - Mail Delivery Agents](#communication---email---mail-delivery-agents)
   - [Communication - Email - Mail Transfer Agents](#communication---email---mail-transfer-agents)
   - [Communication - Email - Mailing Lists and Newsletters](#communication---email---mailing-lists-and-newsletters)
-  - [Communication - Email - Webmail Clients](#communication---email---webmail-clients)
+  - [Communication - Email - Web-mail Clients](#communication---email---webmail-clients)
   - [Communication - IRC](#communication---irc)
   - [Communication - SIP](#communication---sip)
   - [Communication - Social Networks and Forums](#communication---social-networks-and-forums)
@@ -49,9 +49,9 @@ See [Contributing](#contributing).
   - [Federated Identity & Authentication](#federated-identity--authentication)
   - [Feed Readers](#feed-readers)
   - [File Transfer & Synchronization](#file-transfer--synchronization)
-  - [File Transfer - Distributed Filesystems](#file-transfer---distributed-filesystems)
+  - [File Transfer - Distributed File-systems](#file-transfer---distributed-filesystems)
   - [File Transfer - Object Storage & File Servers](#file-transfer---object-storage--file-servers)
-  - [File Transfer - Peer-to-peer Filesharing](#file-transfer---peer-to-peer-filesharing)
+  - [File Transfer - Peer-to-peer File-sharing](#file-transfer---peer-to-peer-filesharing)
   - [File Transfer - Single-click & Drag-n-drop Upload](#file-transfer---single-click--drag-n-drop-upload)
   - [File Transfer - Web-based File Managers](#file-transfer---web-based-file-managers)
   - [Games](#games)
@@ -145,39 +145,39 @@ _Related: [Database Management](#database-management), [Personal Dashboards](#pe
 - 🌎 [Mixpost](https://mixpost.app/) - Social media management software to easily create, schedule, publish, and manage social media content in one place (alternative to Hootsuite and Buffer). (<b><code>&nbsp;&nbsp;&nbsp;116⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;30🍴</code></b> [Source Code](https://github.com/inovector/MixpostApp))) `MIT` `PHP/Docker`
 - 🌎 [Netron](https://netron.app/) - Visualizer for neural network and machine learning models. (<b><code>&nbsp;32009⭐</code></b> <b><code>&nbsp;&nbsp;3048🍴</code></b> [Source Code](https://github.com/lutzroeder/netron))) `MIT` `Python/Nodejs`
 - 🌎 [Offen](https://www.offen.dev/) - Fair, lightweight and open web analytics tool. Gain insights while your users have full access to their data.  🌎 [Demo](https://www.offen.dev/try-demo/), <b><code>&nbsp;&nbsp;&nbsp;961⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;54🍴</code></b> [Source Code](https://github.com/offen/offen))) `Apache-2.0` `Go/Docker`
-- 🌎 [Plausible Analytics](plausible.io/) - Simple, lightweight (< 1 KB) and privacy-friendly web analytics. (<b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> [Source Code](https://github.com/plausible/analytics/))) `AGPL-3.0` `Elixir`
-- 🌎 [PostHog](posthog.com) - Product analytics, session recording, feature flagging and a/b testing that you can self-host (alternative to Mixpanel, Amplitude, Heap, HotJar, Optimizely). (<b><code>&nbsp;30429⭐</code></b> <b><code>&nbsp;&nbsp;2119🍴</code></b> [Source Code](https://github.com/posthog/posthog))) `MIT` `Python`
-- 🌎 [Postiz](postiz.com) `⚠` - Schedule posts, track the performance of your content, and manage all your social media accounts in one place (Alternative to Buffer, Hootsuite, Sprout Social). (<b><code>&nbsp;24826⭐</code></b> <b><code>&nbsp;&nbsp;4173🍴</code></b> [Source Code](https://github.com/gitroomhq/postiz-app))) `AGPL-3.0` `Docker`
-- 🌎 [Prisme Analytics](www.prismeanalytics.com) - Privacy-focused and progressive analytics service based on Grafana. (<b><code>&nbsp;&nbsp;&nbsp;115⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2🍴</code></b> [Source Code](https://github.com/prismelabs/analytics))) `AGPL-3.0/MIT` `Docker`
+- 🌎 [Plausible Analytics](https://plausible.io/) - Simple, lightweight (< 1 KB) and privacy-friendly web analytics. (<b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> [Source Code](https://github.com/plausible/analytics/))) `AGPL-3.0` `Elixir`
+- 🌎 [PostHog](https://posthog.com) - Product analytics, session recording, feature flagging and a/b testing that you can self-host (alternative to Mixpanel, Amplitude, Heap, HotJar, Optimizely). (<b><code>&nbsp;30429⭐</code></b> <b><code>&nbsp;&nbsp;2119🍴</code></b> [Source Code](https://github.com/posthog/posthog))) `MIT` `Python`
+- 🌎 [Postiz](https://postiz.com) `⚠` - Schedule posts, track the performance of your content, and manage all your social media accounts in one place (Alternative to Buffer, Hootsuite, Sprout Social). (<b><code>&nbsp;24826⭐</code></b> <b><code>&nbsp;&nbsp;4173🍴</code></b> [Source Code](https://github.com/gitroomhq/postiz-app))) `AGPL-3.0` `Docker`
+- 🌎 [Prisme Analytics](https://www.prismeanalytics.com) - Privacy-focused and progressive analytics service based on Grafana. (<b><code>&nbsp;&nbsp;&nbsp;115⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2🍴</code></b> [Source Code](https://github.com/prismelabs/analytics))) `AGPL-3.0/MIT` `Docker`
 - [Redash](http://redash.io) - Connect and query your data sources, build dashboards to visualize data and share them with your company. (<b><code>&nbsp;28063⭐</code></b> <b><code>&nbsp;&nbsp;4536🍴</code></b> [Source Code](https://github.com/getredash/redash))) `BSD-2-Clause` `Docker`
-- 🌎 [Rybbit](rybbit.io) - Web and products analytics that is easy to setup and more intuitive (alternative to Google Analytics).  🌎 [Demo](demo.rybbit.io/21/), <b><code>&nbsp;10176⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;492🍴</code></b> [Source Code](https://github.com/rybbit-io/rybbit))) `AGPL-3.0` `Docker`
+- 🌎 [Rybbit](https://rybbit.io) - Web and products analytics that is easy to setup and more intuitive (alternative to Google Analytics).  🌎 [Demo](https://demo.rybbit.io/21/), <b><code>&nbsp;10176⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;492🍴</code></b> [Source Code](https://github.com/rybbit-io/rybbit))) `AGPL-3.0` `Docker`
 - <b><code>&nbsp;&nbsp;3093⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;204🍴</code></b> [Shynet](https://github.com/milesmcc/shynet)) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. `Apache-2.0` `Python/Docker`
 - <b><code>&nbsp;&nbsp;1391⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;402🍴</code></b> [Socioboard](https://github.com/socioboard/Socioboard-5.0)) `⚠` - Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. `GPL-3.0` `Nodejs`
-- <b><code>&nbsp;&nbsp;1351⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;90🍴</code></b> [Statistics for Strava](https://github.com/robiningelbrecht/statistics-for-strava)) `⚠` - Statistics dashboard generated from Strava data.  🌎 [Demo](statistics-for-strava.robiningelbrecht.be/)) `AGPL-3.0` `Docker`
+- <b><code>&nbsp;&nbsp;1351⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;90🍴</code></b> [Statistics for Strava](https://github.com/robiningelbrecht/statistics-for-strava)) `⚠` - Statistics dashboard generated from Strava data.  🌎 [Demo](https://statistics-for-strava.robiningelbrecht.be/)) `AGPL-3.0` `Docker`
 - [Superset](http://superset.apache.org/) - Modern data exploration and visualization platform. (<b><code>&nbsp;69377⭐</code></b> <b><code>&nbsp;16316🍴</code></b> [Source Code](https://github.com/apache/superset))) `Apache-2.0` `Python`
-- 🌎 [Swetrix](swetrix.com/) - Ultimate, open-source web analytics to satisfy all your needs.  🌎 [Demo](swetrix.com/projects/STEzHcB1rALV), <b><code>&nbsp;&nbsp;&nbsp;&nbsp;61⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;19🍴</code></b> [Source Code](https://github.com/Swetrix/selfhosting))) `AGPL-3.0` `Docker`
-- 🌎 [Umami](umami.is/) - Simple, fast, privacy-focused alternative to Google Analytics.  🌎 [Demo](cloud.umami.is/share/LGazGOecbDtaIwDr), <b><code>&nbsp;34130⭐</code></b> <b><code>&nbsp;&nbsp;6050🍴</code></b> [Source Code](https://github.com/umami-software/umami))) `MIT` `Nodejs/Docker`
-- 🌎 [Vince](www.vinceanalytics.com/) - Web analytics and dashboard (alternative to Google Analytics).  🌎 [Demo](demo.vinceanalytics.com/v1/share/vinceanalytics.com?auth=Ls9tV4pzqOn7BJ7-&demo=true), <b><code>&nbsp;&nbsp;1984⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;71🍴</code></b> [Source Code](https://github.com/vinceanalytics/vince))) `AGPL-3.0` `Go/Docker/K8S/deb`
+- 🌎 [Swetrix](https://swetrix.com/) - Ultimate, open-source web analytics to satisfy all your needs.  🌎 [Demo](https://swetrix.com/projects/STEzHcB1rALV), <b><code>&nbsp;&nbsp;&nbsp;&nbsp;61⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;19🍴</code></b> [Source Code](https://github.com/Swetrix/selfhosting))) `AGPL-3.0` `Docker`
+- 🌎 [Umami](https://umami.is/) - Simple, fast, privacy-focused alternative to Google Analytics.  🌎 [Demo](https://cloud.umami.is/share/LGazGOecbDtaIwDr), <b><code>&nbsp;34130⭐</code></b> <b><code>&nbsp;&nbsp;6050🍴</code></b> [Source Code](https://github.com/umami-software/umami))) `MIT` `Nodejs/Docker`
+- 🌎 [Vince](https://www.vinceanalytics.com/) - Web analytics and dashboard (alternative to Google Analytics).  🌎 [Demo](https://demo.vinceanalytics.com/v1/share/vinceanalytics.com?auth=Ls9tV4pzqOn7BJ7-&demo=true), <b><code>&nbsp;&nbsp;1984⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;71🍴</code></b> [Source Code](https://github.com/vinceanalytics/vince))) `AGPL-3.0` `Go/Docker/K8S/deb`
 
 
 ### Archiving and Digital Preservation (DP)
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-Digital 🌎 [archiving](en.wikipedia.org/wiki/Archival_science) and 🌎 [preservation](en.wikipedia.org/wiki/Digital_preservation) software.
+Digital 🌎 [archiving](https://en.wikipedia.org/wiki/Archival_science) and 🌎 [preservation](https://en.wikipedia.org/wiki/Digital_preservation) software.
 
 _Related: [Content Management Systems (CMS)](#content-management-systems-cms)_
 
 _See also: <b><code>&nbsp;&nbsp;2422⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;176🍴</code></b> [awesome-web-archiving](https://github.com/iipc/awesome-web-archiving))_
 
-- 🌎 [ArchiveBox](archivebox.io/) - Create HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources (alternative to Wayback Machine).  🌎 [Demo](demo.archivebox.io/), <b><code>&nbsp;25932⭐</code></b> <b><code>&nbsp;&nbsp;1408🍴</code></b> [Source Code](https://github.com/ArchiveBox/ArchiveBox))) `MIT` `Python/Docker`
-- 🌎 [ArchivesSpace](archivesspace.org/) - Archives information management application for managing and providing Web access to archives, manuscripts and digital objects.  🌎 [Demo](archivesspace.org/application/sandbox), <b><code>&nbsp;&nbsp;&nbsp;389⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;243🍴</code></b> [Source Code](https://github.com/archivesspace/archivesspace))) `ECL-2.0` `Ruby`
-- 🌎 [bitmagnet](bitmagnet.io) - BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. (<b><code>&nbsp;&nbsp;3646⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;195🍴</code></b> [Source Code](https://github.com/bitmagnet-io/bitmagnet))) `MIT` `Go/Docker`
-- 🌎 [CKAN](ckan.org) - Make open data websites. (<b><code>&nbsp;&nbsp;4906⭐</code></b> <b><code>&nbsp;&nbsp;2069🍴</code></b> [Source Code](https://github.com/ckan/ckan))) `AGPL-3.0` `Python`
-- 🌎 [Collective Access - Providence](collectiveaccess.org/) - Highly configurable Web-based framework for management, description, and discovery of digital and physical collections supporting a variety of metadata standards, data types, and media formats. (<b><code>&nbsp;&nbsp;&nbsp;349⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;188🍴</code></b> [Source Code](https://github.com/collectiveaccess/providence))) `GPL-3.0` `PHP`
+- 🌎 [ArchiveBox](https://archivebox.io/) - Create HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources (alternative to Wayback Machine).  🌎 [Demo](https://demo.archivebox.io/), <b><code>&nbsp;25932⭐</code></b> <b><code>&nbsp;&nbsp;1408🍴</code></b> [Source Code](https://github.com/ArchiveBox/ArchiveBox))) `MIT` `Python/Docker`
+- 🌎 [ArchivesSpace](https://archivesspace.org/) - Archives information management application for managing and providing Web access to archives, manuscripts and digital objects.  🌎 [Demo](https://archivesspace.org/application/sandbox), <b><code>&nbsp;&nbsp;&nbsp;389⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;243🍴</code></b> [Source Code](https://github.com/archivesspace/archivesspace))) `ECL-2.0` `Ruby`
+- 🌎 [bitmagnet](https://bitmagnet.io) - BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. (<b><code>&nbsp;&nbsp;3646⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;195🍴</code></b> [Source Code](https://github.com/bitmagnet-io/bitmagnet))) `MIT` `Go/Docker`
+- 🌎 [CKAN](https://ckan.org) - Make open data websites. (<b><code>&nbsp;&nbsp;4906⭐</code></b> <b><code>&nbsp;&nbsp;2069🍴</code></b> [Source Code](https://github.com/ckan/ckan))) `AGPL-3.0` `Python`
+- 🌎 [Collective Access - Providence](https://collectiveaccess.org/) - Highly configurable Web-based framework for management, description, and discovery of digital and physical collections supporting a variety of metadata standards, data types, and media formats. (<b><code>&nbsp;&nbsp;&nbsp;349⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;188🍴</code></b> [Source Code](https://github.com/collectiveaccess/providence))) `GPL-3.0` `PHP`
 - <b><code>&nbsp;&nbsp;&nbsp;887⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;46🍴</code></b> [Ganymede](https://github.com/Zibbp/ganymede)) `⚠` - Twitch VOD and live stream archiving platform. Includes a rendered chat for each archive. `GPL-3.0` `Docker`
-- 🌎 [Omeka S](omeka.org/s/) - Next-generation web publishing platform for institutions interested in connecting digital cultural heritage collections with other resources online. (<b><code>&nbsp;&nbsp;&nbsp;459⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;154🍴</code></b> [Source Code](https://github.com/omeka/omeka-s))) `GPL-3.0` `Nodejs`
-- 🌎 [Wallabag](www.wallabag.org) - Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. (<b><code>&nbsp;12248⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;843🍴</code></b> [Source Code](https://github.com/wallabag/wallabag))) `MIT` `PHP`
+- 🌎 [Omeka S](https://omeka.org/s/) - Next-generation web publishing platform for institutions interested in connecting digital cultural heritage collections with other resources online. (<b><code>&nbsp;&nbsp;&nbsp;459⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;154🍴</code></b> [Source Code](https://github.com/omeka/omeka-s))) `GPL-3.0` `Nodejs`
+- 🌎 [Wallabag](https://www.wallabag.org) - Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. (<b><code>&nbsp;12248⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;843🍴</code></b> [Source Code](https://github.com/wallabag/wallabag))) `MIT` `PHP`
 - <b><code>&nbsp;&nbsp;2104⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;82🍴</code></b> [Wayback](https://github.com/wabarc/wayback)) - A self-hosted toolkit for archiving webpages to the Internet Archive, archive.today, IPFS, and local file systems. `GPL-3.0` `Go`
 - <b><code>&nbsp;&nbsp;&nbsp;173⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3🍴</code></b> [Webarchive](https://github.com/derfenix/webarchive)) - Lightweight self-hosted _wayback machine_ that creates HTML and PDF files from your bookmarks. `BSD-3-Clause` `Go`
 
@@ -185,11 +185,11 @@ _See also: <b><code>&nbsp;&nbsp;2422⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;17
 ### Automation
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
- 🌎 [Automation](en.wikipedia.org/wiki/Automation) software designed to reduce human intervention in processes.
+ 🌎 [Automation](https://en.wikipedia.org/wiki/Automation) software designed to reduce human intervention in processes.
 
 _Related: [Internet of Things (IoT)](#internet-of-things-iot), [Software Development - Continuous Integration & Deployment](#software-development---continuous-integration--deployment), [Media Management](#media-management)_
 
-- 🌎 [Activepieces](www.activepieces.com) - No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. (<b><code>&nbsp;19800⭐</code></b> <b><code>&nbsp;&nbsp;3035🍴</code></b> [Source Code](https://github.com/activepieces/activepieces))) `MIT` `Docker`
+- 🌎 [Activepieces](https://www.activepieces.com) - No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. (<b><code>&nbsp;19800⭐</code></b> <b><code>&nbsp;&nbsp;3035🍴</code></b> [Source Code](https://github.com/activepieces/activepieces))) `MIT` `Docker`
 - 🌎 [Apache Airflow](airflow.apache.org/) - Platform to programmatically author, schedule, and monitor workflows. (<b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> [Source Code](https://github.com/apache/airflow/))) `Apache-2.0` `Python/Docker`
 - 🌎 [Automatisch](automatisch.io) - Business automation tool that lets you connect different services like Twitter, Slack, and more to automate your business processes (alternative to Zapier). (<b><code>&nbsp;13395⭐</code></b> <b><code>&nbsp;&nbsp;1020🍴</code></b> [Source Code](https://github.com/automatisch/automatisch))) `AGPL-3.0` `Docker`
 - <b><code>&nbsp;&nbsp;&nbsp;260⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;13🍴</code></b> [BookBounty](https://github.com/TheWicklowWolf/BookBounty)) `⚠` - Retrieve missing Readarr books from Library Genesis. `MPL-2.0` `Docker`
